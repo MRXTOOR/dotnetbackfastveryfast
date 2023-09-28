@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uberBrackFast.Contracts", "uberBrackFast.Contracts\uberBrackFast.Contracts.csproj", "{B24569C6-7E40-4BB8-B52C-41ED8C490E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uberBrackFast", "uberBrackFast\uberBrackFast.csproj", "{0BFFF717-E8D4-4CB7-9258-2ADA4387E953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24569C6-7E40-4BB8-B52C-41ED8C490E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24569C6-7E40-4BB8-B52C-41ED8C490E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24569C6-7E40-4BB8-B52C-41ED8C490E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24569C6-7E40-4BB8-B52C-41ED8C490E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFFF717-E8D4-4CB7-9258-2ADA4387E953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFFF717-E8D4-4CB7-9258-2ADA4387E953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFFF717-E8D4-4CB7-9258-2ADA4387E953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFFF717-E8D4-4CB7-9258-2ADA4387E953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
