@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "uberBrackFast/1.0.0": {
+        "dependencies": {
+          "uberBrackFast.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "uberBrackFast.dll": {}
+        }
+      },
+      "uberBrackFast.Contracts/1.0.0": {
+        "runtime": {
+          "uberBrackFast.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uberBrackFast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "uberBrackFast.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

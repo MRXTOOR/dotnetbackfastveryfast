@@ -1,23 +1,27 @@
-namespace uberBrackFast.Controllers
+using Microsoft.AspNetCore.Mvc;
+namespace uberBrackFast.Controllers;
+using uberBrackFast.Contracts.BrackFast;
+[ApiController]
+public class BrackFastController : ControllerBase
+{
+[HttpPost("/brackfasts")]
+public IActionResult CreateBrackfast(CreateBrackFastRequest request){
+    return Ok(request);
+}
 
-    [Route("[controller]")]
-    public class uberBrackfast : Controller
-    {
-        private readonly ILogger<uberBrackfast> _logger;
+[HttpGet("/brackfasts/{id:guid}")]
+public IActionResult GetBrackfast(Guid id){
+    return Ok(id);
+}
 
-        public uberBrackfast(ILogger<uberBrackfast> logger)
-        {
-            _logger = logger;
-        }
+[HttpPut("/brackfasts/{id:guid}")]
+public IActionResult UpsertBrackfast(Guid id,UpsertBrackFastRequest request){
+    return Ok(request);
+}
 
-        public IActionResult Index()
-        {
-            return View();
-        }
+[HttpDelete("/brackfasts/{id:guid}")]
+public IActionResult DeleteBrackfast(Guid id){
+    return Ok(id);
+}
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View("Error!");
-        }
-    }
+}

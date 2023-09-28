@@ -1,0 +1,11 @@
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\bin\Debug\net7.0\uberBrackFast.Contracts.deps.json
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\bin\Debug\net7.0\uberBrackFast.Contracts.dll
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\bin\Debug\net7.0\uberBrackFast.Contracts.pdb
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\obj\Debug\net7.0\uberBrackFast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\obj\Debug\net7.0\uberBrackFast.Contracts.AssemblyInfoInputs.cache
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\obj\Debug\net7.0\uberBrackFast.Contracts.AssemblyInfo.cs
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\obj\Debug\net7.0\uberBrackFast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\obj\Debug\net7.0\uberBrackFast.Contracts.dll
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\obj\Debug\net7.0\refint\uberBrackFast.Contracts.dll
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\obj\Debug\net7.0\uberBrackFast.Contracts.pdb
+C:\Users\Harry\Desktop\бекнасобес\dotnetbackfastveryfast\uberBrackFast\uberBrackFast.Contracts\obj\Debug\net7.0\ref\uberBrackFast.Contracts.dll
