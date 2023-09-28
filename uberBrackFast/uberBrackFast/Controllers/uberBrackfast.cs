@@ -10,6 +10,9 @@ public class BrackFastController : ControllerBase
 {
 private readonly IBrackFastService _brackFastService;
 
+public BrackFastController(IBrackFastService brackFastService){
+    _brackFastService = brackFastService;
+}
 
 [HttpPost]
 public IActionResult CreateBrackfast(CreateBrackFastRequest request){
